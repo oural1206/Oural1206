@@ -15,3 +15,8 @@
 <b>🔶 Backend</b>
 * php
 * mysql
+
+
+## 📊 My stats
+
+![Oural1206 Profile Stats](https://github-readme-stats.vercel.app/api?username=Oural1206&icons=true&lang=EN)
