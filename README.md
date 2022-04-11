@@ -3,16 +3,19 @@
 
 ## 💻 My skills
 
-<b>🔹 Basic</b>
-* lua
+<b>Basic</b>
+<br>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 * python
 
-<b>🔷 Frontend</b>
+<b>Frontend</b>
+<br>
 * html
 * css
 * js
 
-<b>🔶 Backend</b>
+<b>Backend</b>
+<br>
 * php
 * mysql
 
