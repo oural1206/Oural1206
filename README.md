@@ -6,18 +6,18 @@
 <b>Basic</b>
 <br>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
-* python
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"></code>
 
 <b>Frontend</b>
 <br>
-* html
-* css
-* js
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 
 <b>Backend</b>
 <br>
-* php
-* mysql
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></code>
 
 
 ## 📊 My stats
