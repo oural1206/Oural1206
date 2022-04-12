@@ -1,9 +1,11 @@
 # 👋 Hi, i am a young developer
 
 
-## ​🙋🏻‍♂️ About me
+## 🙋‍♂️ About me
 
 ### 👀 Who I am ?
+> I am a young developer, I started my first language at 10 years old. I have progressed quite a bit, slowly but surely.
+I'm not looking for any project for the moment I'm working on my website.
 
 ### 💻 My skills
 
@@ -36,9 +38,9 @@
 
 
 ## 🌐 My whebsite
-Currently under maintenance
-<br>
-<a href=http://oural.tech>Visit now</a>
+> Currently under maintenance
+> <br>
+> <a href=http://oural.tech>Visit now</a>
 
 
 ## 📊 My stats
