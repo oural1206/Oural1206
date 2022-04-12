@@ -22,6 +22,9 @@
 
 <b>Others</b>
 <br>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
+<br>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"></code>
