@@ -1,7 +1,11 @@
 # 👋 Hi, i am a young developer
 
 
-## 💻 My skills
+## ​🙋🏻‍♂️ About me
+
+### 👀 Who I am ?
+
+### 💻 My skills
 
 <b>Basic</b>
 <br>
@@ -36,8 +40,6 @@ Currently under maintenance
 <br>
 <a href=http://oural.tech>Visit now</a>
 
-
-## ​🙋🏻‍♂️ About me
 
 ## 📊 My stats
 
