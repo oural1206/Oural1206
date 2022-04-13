@@ -1,10 +1,10 @@
 # 👋 Hi, i am a young developer
 
 
-## 🙋‍♂️ About me
+## 🙋‍♂️ About me ?
 
-### 👀 Who I am ?
-> Hello, I am a young developer, I started my first language at 10 years old. I have progressed quite a bit, slowly but surely.
+### 👀 Who I am
+> Helle my name is Jules, I am a young developer, I started my first language at 10 years old. I have progressed quite a bit, slowly but surely.
 I'm not looking for any project for the moment I'm working on my website.
 
 ### 💻 My skills
