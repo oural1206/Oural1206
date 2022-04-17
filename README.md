@@ -45,4 +45,4 @@ I'm not looking for any project for the moment I'm working on my website.
 
 ## 📊 My stats
 
-![Oural1206 Profile Stats](https://github-readme-stats.vercel.app/api?username=Oural1206&icons=true&lang=EN)
+![Oural1206 GitHub stats](https://github-readme-stats.vercel.app/api?username=Oural1206&show_icons=true&theme=github_dark)
