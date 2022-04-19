@@ -45,4 +45,6 @@ I'm not looking for any project for the moment I'm working on my website.
 
 ## 📊 My stats
 
-![Oural1206 GitHub stats](https://github-readme-stats.vercel.app/api?username=Oural1206&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oural1206&show_icons=true&theme=github_dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oural1206&layout=compact&theme=github_dark)
