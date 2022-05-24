@@ -37,10 +37,10 @@ I'm not looking for any project for the moment I'm working on my website.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></code>
 
 
-## 🌐 My whebsite
+## 🌐 My website
 > Currently under maintenance
 > <br>
-> <a href=http://oural.tech>Visit now</a>
+> <a href=https://oural.tech>Visit now</a>
 
 
 ## 📊 My stats
