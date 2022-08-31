@@ -14,7 +14,7 @@ I'm not looking for any project for the moment I'm working on my website.
 <code>
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
 </code>
 
