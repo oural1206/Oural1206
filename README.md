@@ -5,53 +5,19 @@
 
 ### 👀 Who I am
 > Hello my name is Jules, I am a young developer, I started my first language at 10 years old. I have progressed quite a bit, slowly but surely.
-I'm not looking for any project for the moment I'm working on my website.
+I'm not looking for any project for the moment I'm working on new website.
 
 ### 💻 My skills
 
-<b>Basic</b>
-<br>
-<code>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-</code>
+#### 2019
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-<b>Frontend</b>
-<br>
-<code>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-</code>
+#### 2020
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-<b>Backend</b>
-<br>
-<code>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-</code>
-
-<b>Others</b>
-<br>
-<code>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-</code>
-<br>
-<code>
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
-</code>
-
+#### 2021
+![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🌐 My website
 > Currently under maintenance
