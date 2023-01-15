@@ -55,7 +55,7 @@ I'm not looking for any project for the moment I'm working on new website.
 ![EsLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 ### 2023
-**Languages**
+**Languages**  
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 **Frameworks & Library**  
 ![UE](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
